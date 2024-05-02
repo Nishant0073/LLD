@@ -1,0 +1,5 @@
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without Strategy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without Strategy Pattern.AssemblyInfoInputs.cache
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without Strategy Pattern.AssemblyInfo.cs
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without Strategy Pattern.csproj.CoreCompileInputs.cache
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without Strategy Pattern.sourcelink.json

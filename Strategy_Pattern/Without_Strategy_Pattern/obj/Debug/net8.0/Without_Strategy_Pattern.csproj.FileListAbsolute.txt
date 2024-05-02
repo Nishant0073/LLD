@@ -1,0 +1,15 @@
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without_Strategy_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without_Strategy_Pattern.AssemblyInfoInputs.cache
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without_Strategy_Pattern.AssemblyInfo.cs
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without_Strategy_Pattern.csproj.CoreCompileInputs.cache
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without_Strategy_Pattern.sourcelink.json
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/bin/Debug/net8.0/Without_Strategy_Pattern
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/bin/Debug/net8.0/Without_Strategy_Pattern.deps.json
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/bin/Debug/net8.0/Without_Strategy_Pattern.runtimeconfig.json
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/bin/Debug/net8.0/Without_Strategy_Pattern.dll
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/bin/Debug/net8.0/Without_Strategy_Pattern.pdb
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without_Strategy_Pattern.dll
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/refint/Without_Strategy_Pattern.dll
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without_Strategy_Pattern.pdb
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/Without_Strategy_Pattern.genruntimeconfig.cache
+/home/nishant/codes/LLD/Strategy_Pattern/Without_Strategy_Pattern/obj/Debug/net8.0/ref/Without_Strategy_Pattern.dll
